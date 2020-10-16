@@ -1,0 +1,8 @@
+name = "johntorrents-com"
+type = "rust"
+account_id = "f1e9e3e425d06de20cdfb9b5684b1a57"
+workers_dev = true
+
+[env.production]
+route = "https://*johntorrents.com/*"
+zone_id = "50918f8712b1e18726ab24be5197786f"
