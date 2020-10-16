@@ -18,5 +18,5 @@ cfg_if! {
 
 #[wasm_bindgen]
 pub fn greet() -> String {
-    "Hello, world!".to_string()
+    "you have been hacked".to_string()
 }
