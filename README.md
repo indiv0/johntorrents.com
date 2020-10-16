@@ -1,4 +1,30 @@
-# 👷‍♀️🦀🕸️ `johntorrents.com`
+# 👷‍♀️🦀🕸️ [`johntorrents.com`](https://johntorrents.com)
+
+<table>
+  <tr>
+    <td><strong>Linux</strong></td>
+    <td>
+      <a href="https://travis-ci.org/github/indiv0/johntorrents.com" title="Travis Build Status">
+        <img src="https://img.shields.io/travis/indiv0/johntorrents.com/main?style=flat-square" alt="travis-badge"></img>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Windows</strong></td>
+    <td>
+      <a href="https://ci.appveyor.com/project/indiv0/johntorrents-com" title="Appveyor Build Status">
+        <img src="https://img.shields.io/appveyor/build/indiv0/johntorrents-com/main?style=flat-square" alt="appveyor-badge"></img>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <a href="LICENSE">
+        <img src="https://img.shields.io/github/license/indiv0/johntorrents.com?style=flat-square" alt="license-badge"></img>
+      </a>
+    </td>
+  </tr>
+</table>
 
 This site is an inside joke. Don't ask.
 
